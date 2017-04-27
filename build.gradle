@@ -17,7 +17,7 @@ apply plugin: 'application'
 group = 'org.springframework'
 version = '0.1.0'
 
-mainClassName = 'hello.HelloWorld'
+mainClassName = 'hello.Application'
 description = """Spring Boot - HelloWorld-Gradle"""
 
 // In this section you declare where to find the dependencies of your project
